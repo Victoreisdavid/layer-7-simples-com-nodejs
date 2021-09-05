@@ -20,3 +20,5 @@ nota: o website usado como exemplo é um que eu fiz para testar, inclusive se vo
 
 ## Informação desnecessária
 Isso parou um website rodando no [replit](https://replit.com) em praticamente menos de 10 segundos apenas com 3 threads...
+
+nota: atacar um site estático com isso é perda de tempo, até porque websites estáticos são difíceis de cair
